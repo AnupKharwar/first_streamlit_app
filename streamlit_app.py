@@ -1,7 +1,7 @@
 import streamlit
 import pandas
 
-streamlit.title("Healthy Menu")
+streamlit.title("RCM Healthy Menu")
 streamlit.header('Breakfast Menu')
 
 streamlit.text('🥣Omega 3 & Blueberry Oatmeal')
